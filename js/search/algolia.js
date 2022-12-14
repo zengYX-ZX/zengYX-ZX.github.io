@@ -61,6 +61,7 @@ window.addEventListener('load', () => {
       container: '#algolia-search-input',
       reset: false,
       magnifier: false,
+      searchOnEnterKeyPressOnly: true, // +
       placeholder: GLOBAL_CONFIG.algolia.languages.input_placeholder
     })
   )
@@ -72,8 +73,11 @@ window.addEventListener('load', () => {
           const link = data.permalink ? data.permalink : (GLOBAL_CONFIG.root + data.path)
           return (
             '<a href="' + link + '" class="algolia-hit-item-link">' +
-            data._highlightResult.title.value +
-            '</a>'
+            data._highlightResult.title.value
+            + data._snippetResult.contentStrip.value + '<br>( 匹配字词 : ' // +
+            + data._highlightResult.contentStrip.matchedWords + ' ) | ( 匹配等级 : ' // +
+            + data._highlightResult.contentStrip.matchLevel // +
+            + ' )</a>'
           )
         },
         empty: function (data) {
