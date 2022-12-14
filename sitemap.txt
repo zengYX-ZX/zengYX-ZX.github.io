@@ -1,9 +1,7 @@
 http://localhost:4000/images/index.html
 http://localhost:4000/images/wlopImg/index.html
-http://localhost:4000/gallery/girlImg/index.html
+http://localhost:4000/images/wallpaper/index.html
 http://localhost:4000/images/girlImg/index.html
-http://localhost:4000/gallery/wlopImg/index.html
-http://localhost:4000/gallery/index.html
 http://localhost:4000/2022/12/09/java/springCloudAlibaba/
 http://localhost:4000/2022/12/09/java/springCloud/
 http://localhost:4000/link/index.html
