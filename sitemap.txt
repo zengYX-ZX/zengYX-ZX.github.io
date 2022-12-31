@@ -1,6 +1,7 @@
+http://localhost:4000/music/index.html
+http://localhost:4000/about/index.html
 http://localhost:4000/movies/index.html
 http://localhost:4000/books/index.html
-http://localhost:4000/music/index.html
 http://localhost:4000/images/index.html
 http://localhost:4000/images/wlopImg/index.html
 http://localhost:4000/images/wallpaper/index.html
