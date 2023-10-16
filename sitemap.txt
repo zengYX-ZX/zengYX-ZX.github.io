@@ -14,8 +14,8 @@ http://localhost:4000/tags/index.html
 http://localhost:4000/categories/index.html
 http://localhost:4000/2022/12/05/hello-world/
 http://localhost:4000/
-http://localhost:4000/tags/algolia/
-http://localhost:4000/tags/springCloud/
 http://localhost:4000/tags/springCloudAlibaba/
-http://localhost:4000/categories/hexo/
+http://localhost:4000/tags/springCloud/
+http://localhost:4000/tags/algolia/
 http://localhost:4000/categories/java/
+http://localhost:4000/categories/hexo/
