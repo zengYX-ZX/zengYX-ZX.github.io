@@ -72,8 +72,8 @@ window.addEventListener('load', () => {
         item: function (data) {
           const link = data.permalink ? data.permalink : (GLOBAL_CONFIG.root + data.path)
           return (
-            '<a href="' + link + '" class="algolia-hit-item-link">' +
-            data._highlightResult.title.value
+            '<a href="' + link + '" class="algolia-hit-item-link"><b>' +
+            data._highlightResult.title.value + '</b><br>'
             + data._snippetResult.contentStrip.value + '<br>( 匹配字词 : ' // +
             + data._highlightResult.contentStrip.matchedWords + ' ) | ( 匹配等级 : ' // +
             + data._highlightResult.contentStrip.matchLevel // +
