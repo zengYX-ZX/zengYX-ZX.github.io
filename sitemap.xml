@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:4000/2022/12/09/java/springCloudAlibaba/</loc>
+    <loc>http://localhost:4000/2022/12/09/java/springCloud/</loc>
     
     <lastmod>2023-10-16</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/2022/12/09/java/springCloud/</loc>
+    <loc>http://localhost:4000/2022/12/09/java/springCloudAlibaba/</loc>
     
     <lastmod>2023-10-16</lastmod>
     
@@ -139,29 +139,29 @@
 
   <url>
     <loc>http://localhost:4000/</loc>
-    <lastmod>2023-10-16</lastmod>
+    <lastmod>2023-10-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://localhost:4000/tags/springCloudAlibaba/</loc>
-    <lastmod>2023-10-16</lastmod>
+    <loc>http://localhost:4000/tags/algolia/</loc>
+    <lastmod>2023-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://localhost:4000/tags/springCloud/</loc>
-    <lastmod>2023-10-16</lastmod>
+    <lastmod>2023-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://localhost:4000/tags/algolia/</loc>
-    <lastmod>2023-10-16</lastmod>
+    <loc>http://localhost:4000/tags/springCloudAlibaba/</loc>
+    <lastmod>2023-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -169,15 +169,15 @@
 
   
   <url>
-    <loc>http://localhost:4000/categories/java/</loc>
-    <lastmod>2023-10-16</lastmod>
+    <loc>http://localhost:4000/categories/hexo/</loc>
+    <lastmod>2023-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://localhost:4000/categories/hexo/</loc>
-    <lastmod>2023-10-16</lastmod>
+    <loc>http://localhost:4000/categories/java/</loc>
+    <lastmod>2023-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
