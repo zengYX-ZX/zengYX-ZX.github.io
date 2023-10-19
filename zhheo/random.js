@@ -1,1 +1,1 @@
-var posts=["2022/12/31/hexo/algolia搜索问题/","2022/12/05/hello-world/","2022/12/09/java/springCloudAlibaba/","2022/12/09/java/springCloud/"];function toRandomPost(){window.open('/'+posts[Math.floor(Math.random() * posts.length)],"_self");};
+var posts=["2022/12/05/hello-world/","2022/12/09/java/springCloud/","2022/12/31/hexo/algolia搜索问题/","2022/12/09/java/springCloudAlibaba/"];function toRandomPost(){window.open('/'+posts[Math.floor(Math.random() * posts.length)],"_self");};
